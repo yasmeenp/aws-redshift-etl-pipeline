@@ -1,0 +1,6 @@
+order_id,product,region,sales,quantity
+101,Keyboard,US,100,2
+102,Mouse,UK,150,3
+103,Laptop,IN,800,1
+104,Monitor,US,250,1
+105,Mouse,IN,200,4
